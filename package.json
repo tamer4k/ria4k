@@ -1,0 +1,23 @@
+{
+  "name": "ria132k",
+  "version": "5.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamer4k/ria4k.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamer4k/ria4k/issues"
+  },
+  "homepage": "https://github.com/tamer4k/ria4k#readme",
+  "dependencies": {
+    "ria4k": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
